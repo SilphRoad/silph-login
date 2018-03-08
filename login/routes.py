@@ -2,4 +2,4 @@ import views
 
 
 def setup(app):
-    app.router.add_get('/', views.index)
+    app.router.add_routes(views.routes)
