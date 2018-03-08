@@ -1,0 +1,8 @@
+.venv*
+*.pyc
+config/config.yaml
+*.sql
+*.swp
+node_modules
+.cache
+.coverage
